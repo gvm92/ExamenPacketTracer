@@ -1,5 +1,5 @@
 # ExamenPacketTracer
-**Hay 3 redes:
+** Hay 3 redes:
 
 ** Creamos 2 supredes (VLSM),
 * La primera con soporte para 25 host con dirección de red 192.168.1.32/29.
