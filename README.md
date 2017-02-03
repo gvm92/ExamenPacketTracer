@@ -1,6 +1,4 @@
 # ExamenPacketTracer
-# EjercicioRedes
-
 **Hay 3 redes:
 
 ** Creamos 2 supredes (VLSM),
